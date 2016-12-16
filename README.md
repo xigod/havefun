@@ -3,3 +3,4 @@
 
 * 视频地址： http://v.ku6.com/show/b39-wZyHNXSMPsEBiJA7tw...html  
 * 根据视频打的剧本： [视频小品剧本](./视频小品剧本.txt)  
+* [多人同步修改剧本方法](./多人同步修改剧本方法.md)  
